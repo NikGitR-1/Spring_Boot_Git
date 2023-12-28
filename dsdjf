@@ -1,0 +1,17 @@
+[33mcommit 5ca8490b43d88f876cdaf6f1545c3a12245fb162[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/posts[m[33m)[m
+Author: Nik I <in@mail.ru>
+Date:   Thu Dec 28 18:16:37 2023 +0300
+
+    Final version feature/posts
+
+[33mcommit 59d2757859e723e874aebf6af70830e6649f1114[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Nik I <in@mail.ru>
+Date:   Thu Dec 28 16:17:19 2023 +0300
+
+    Modifired .gitignore and add README.md
+
+[33mcommit 9fda7a1b749975a097f1ca83aaab748fdffdd977[m
+Author: Nik I <in@mail.ru>
+Date:   Thu Dec 28 15:33:18 2023 +0300
+
+    First application commit
